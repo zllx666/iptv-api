@@ -1,12 +1,11 @@
 🕘️更新时间,#genre#
-2025-06-01 18:22:03,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
+2025-06-02 06:21:11,url
 
 📺央视频道,#genre#
 
 💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a
 
 ☘️北京频道,#genre#
 
@@ -42,6 +41,7 @@ CCTV-15,url
 CCTV-16,url
 CCTV-17,url
 风云足球,url
+浙江卫视,url
 湖北卫视,url
 黑龙江卫视,url
 东方卫视,url
