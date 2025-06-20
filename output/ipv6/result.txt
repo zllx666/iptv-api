@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-20 06:21:42,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
+2025-06-20 18:22:45,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
 
 📺央视频道,#genre#
 CCTV-5,https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100
@@ -30,6 +30,4 @@ TVBS亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe
 漫画解说,https://www.goodiptv.club/douyu/5907076
 
 🈳无结果频道,#genre#
-天津卫视,url
 CCTV-5,url
-海绵宝宝,url
