@@ -1,17 +1,20 @@
-Name: CCTV-5, URL: https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: 2295 ms, Speed: 0.52 M/s, Resolution: 1920x1080
-Name: CCTV-13, URL: http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8, IPv_Type: ipv6, Location: 中国-广西-防城港, ISP: 电信, Date: None, Delay: 1899 ms, Speed: 1.16 M/s, Resolution: 1920x1080
-Name: CCTV-13, URL: http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国联通, Date: None, Delay: 1029 ms, Speed: 0.37 M/s, Resolution: 1920x1080
-Name: CCTV-14, URL: https://event.pull.hebtv.com/jishi/cp2.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: 2075 ms, Speed: 1.17 M/s, Resolution: 1920x1080
-Name: 浙江卫视, URL: http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8, IPv_Type: ipv6, Location: 中国-广西-防城港, ISP: 电信, Date: None, Delay: 1461 ms, Speed: 0.47 M/s, Resolution: 1920x1080
-Name: 黑龙江卫视, URL: http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8, IPv_Type: ipv6, Location: 中国-江苏-常州, ISP: 电信, Date: None, Delay: 178 ms, Speed: 6.66 M/s, Resolution: 1920x1080
-Name: 广西卫视, URL: https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8, IPv_Type: ipv6, Location: 中国-江苏-扬州, ISP: 电信, Date: None, Delay: 1638 ms, Speed: 1.37 M/s, Resolution: 1920x1080
-Name: 广西卫视, URL: https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8, IPv_Type: ipv6, Location: 中国-江苏-扬州, ISP: 电信, Date: None, Delay: 2176 ms, Speed: 1.10 M/s, Resolution: 1920x1080
-Name: 河北卫视, URL: https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国联通, Date: None, Delay: 1603 ms, Speed: 0.83 M/s, Resolution: 1920x1080
-Name: 山东卫视, URL: http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8, IPv_Type: ipv6, Location: 中国-江苏-常州, ISP: 电信, Date: None, Delay: 190 ms, Speed: 9.19 M/s, Resolution: 1920x1080
-Name: 北京新闻, URL: https://brtv-radiolive.rbc.cn/alive/fm945.m3u8, IPv_Type: ipv6, Location: 中国-广东-广州, ISP: 电信, Date: None, Delay: 948 ms, Speed: 0.02 M/s, Resolution: 1920x1080
-Name: TVBS亚洲, URL: http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd, IPv_Type: ipv6, Location: 美国, ISP: Amazon, Date: None, Delay: 628 ms, Speed: 6.74 M/s, Resolution: 1920x1080
-Name: 三立新闻, URL: https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8, IPv_Type: ipv6, Location: 美国, ISP: GitHub+Fastly节点, Date: None, Delay: 513 ms, Speed: 1.82 M/s, Resolution: 1920x1080
-Name: 浙江少儿, URL: http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8, IPv_Type: ipv6, Location: 中国-广西-防城港, ISP: 电信, Date: None, Delay: 1764 ms, Speed: 1.01 M/s, Resolution: 1920x1080
-Name: 浙江少儿, URL: http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=, IPv_Type: ipv6, Location: 中国-广西-防城港, ISP: 电信, Date: None, Delay: 1812 ms, Speed: 0.99 M/s, Resolution: 1920x1080
-Name: 浙江少儿, URL: https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8, IPv_Type: ipv6, Location: 中国-广西-防城港, ISP: 电信, Date: None, Delay: 2005 ms, Speed: 0.94 M/s, Resolution: 1920x1080
-Name: 漫画解说, URL: https://www.goodiptv.club/douyu/5907076, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 852 ms, Speed: 0.33 M/s, Resolution: 1920x1080
+Name: CCTV-5, URL: https://ldcctvwbcdks.v.kcdnvip.com/ldcctvwbcd/cdrmldcctv5plus_1/index.m3u8?b=200-2100, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: 1838 ms, Speed: 0.58 M/s, Resolution: 1920x1080
+Name: CCTV-13, URL: http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8, IPv_Type: ipv6, Location: 中国-广西-防城港, ISP: 电信, Date: None, Delay: 128 ms, Speed: 17.18 M/s, Resolution: 1920x1080
+Name: CCTV-13, URL: http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国联通, Date: None, Delay: 1360 ms, Speed: 0.30 M/s, Resolution: 1920x1080
+Name: CCTV-14, URL: https://event.pull.hebtv.com/jishi/cp2.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国电信, Date: None, Delay: 2215 ms, Speed: 1.33 M/s, Resolution: 1920x1080
+Name: 浙江卫视, URL: http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8, IPv_Type: ipv6, Location: 中国-广西-防城港, ISP: 电信, Date: None, Delay: 99 ms, Speed: 6.96 M/s, Resolution: 1920x1080
+Name: 浙江卫视, URL: http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#mitv://generationnexxxt.com:19806/7bf4b3a65eaf421ab6d71bd8dcc4547a, IPv_Type: ipv6, Location: 美国, ISP: , Date: None, Delay: 658 ms, Speed: 0.00 M/s, Resolution: None
+Name: 黑龙江卫视, URL: http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8, IPv_Type: ipv6, Location: 中国-江苏-常州, ISP: 电信, Date: None, Delay: 178 ms, Speed: 6.19 M/s, Resolution: 1920x1080
+Name: 广西卫视, URL: https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8, IPv_Type: ipv6, Location: 中国-江苏-扬州, ISP: 电信, Date: None, Delay: 1139 ms, Speed: 1.34 M/s, Resolution: 1920x1080
+Name: 广西卫视, URL: https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8, IPv_Type: ipv6, Location: 中国-江苏-扬州, ISP: 电信, Date: None, Delay: 1585 ms, Speed: 1.16 M/s, Resolution: 1920x1080
+Name: 河北卫视, URL: https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8, IPv_Type: ipv6, Location: 中国, ISP: 中国联通, Date: None, Delay: 1954 ms, Speed: 0.68 M/s, Resolution: 1920x1080
+Name: 山东卫视, URL: http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8, IPv_Type: ipv6, Location: 中国-江苏-常州, ISP: 电信, Date: None, Delay: 218 ms, Speed: 8.39 M/s, Resolution: 1920x1080
+Name: 北京新闻, URL: https://brtv-radiolive.rbc.cn/alive/fm945.m3u8, IPv_Type: ipv6, Location: 中国-广东-广州, ISP: 电信, Date: None, Delay: 270 ms, Speed: 0.06 M/s, Resolution: 1920x1080
+Name: TVBS亚洲, URL: http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd, IPv_Type: ipv6, Location: 美国, ISP: Amazon, Date: None, Delay: 84 ms, Speed: 46.00 M/s, Resolution: 1920x1080
+Name: 三立新闻, URL: https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8, IPv_Type: ipv6, Location: 美国, ISP: GitHub+Fastly节点, Date: None, Delay: 718 ms, Speed: 1.33 M/s, Resolution: 1920x1080
+Name: 浙江少儿, URL: https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8, IPv_Type: ipv6, Location: 美国, ISP: , Date: None, Delay: 1703 ms, Speed: 1.02 M/s, Resolution: 1920x1080
+Name: 浙江少儿, URL: http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=#migu5://611318244, IPv_Type: ipv6, Location: 美国, ISP: , Date: None, Delay: 1910 ms, Speed: 0.92 M/s, Resolution: 1920x1080
+Name: 浙江少儿, URL: https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8, IPv_Type: ipv6, Location: 中国-广西-防城港, ISP: 电信, Date: None, Delay: 1968 ms, Speed: 0.88 M/s, Resolution: 1920x1080
+Name: 浙江少儿, URL: http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8, IPv_Type: ipv6, Location: 中国-广西-防城港, ISP: 电信, Date: None, Delay: 2022 ms, Speed: 0.87 M/s, Resolution: 1920x1080
+Name: 浙江少儿, URL: http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8?fbl=, IPv_Type: ipv6, Location: 中国-广西-防城港, ISP: 电信, Date: None, Delay: 2013 ms, Speed: 0.86 M/s, Resolution: 1920x1080
+Name: 漫画解说, URL: https://www.goodiptv.club/douyu/5907076, IPv_Type: ipv6, Location: 美国, ISP: CloudFlare Inc., Date: None, Delay: 369 ms, Speed: 0.67 M/s, Resolution: 1920x1080
